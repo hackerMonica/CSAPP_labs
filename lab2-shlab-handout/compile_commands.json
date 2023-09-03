@@ -1,0 +1,62 @@
+[
+ {
+  "directory": "/home/monica/lab2-shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "tsh.c",
+   "-o",
+   "tsh"
+  ],
+  "file": "tsh.c"
+ },
+ {
+  "directory": "/home/monica/lab2-shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "myspin.c",
+   "-o",
+   "myspin"
+  ],
+  "file": "myspin.c"
+ },
+ {
+  "directory": "/home/monica/lab2-shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "mysplit.c",
+   "-o",
+   "mysplit"
+  ],
+  "file": "mysplit.c"
+ },
+ {
+  "directory": "/home/monica/lab2-shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "mystop.c",
+   "-o",
+   "mystop"
+  ],
+  "file": "mystop.c"
+ },
+ {
+  "directory": "/home/monica/lab2-shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "myint.c",
+   "-o",
+   "myint"
+  ],
+  "file": "myint.c"
+ }
+]
